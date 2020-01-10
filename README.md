@@ -1,3 +1,3 @@
 # Prime Number Generator app
 
-![Prime number genarator](https://imgur.com/r29TMA7)
+[Imgur](https://i.imgur.com/r29TMA7.gifv)
